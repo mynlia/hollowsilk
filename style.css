@@ -1,0 +1,143 @@
+body {
+    color: white;
+    background: black;
+    margin: 2px;
+    font-family: "Varela Round", sans-serif;
+    margin-bottom: 100px;
+}
+
+header{
+    border-bottom: solid 2px gray;
+    margin: 20px;
+    padding: 20px;
+    font-size: 32px;
+}
+
+
+.chamada {
+    background: gray;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+
+
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+img {
+
+height: 250px;
+}
+
+
+
+
+h2 {
+    font-size: 30px;
+}
+
+.historia-principal {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px
+}
+
+.historia {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.historia-principal img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.historia-principal img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(73, 63, 63);
+}
+
+.historia h2 {
+    color: white;
+}
+
+
+
+h3 {
+    font-size: 30px;
+}
+
+.aprofundando {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px
+}
+
+.universo {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.aprofundando img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.aprofundando img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(73, 63, 63);
+}
+
+.universo h3 {
+    color: white;
+}
+
+
+
+
+h4 {
+    font-size: 30px;
+}
+
+.hornet {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px
+}
+
+.silksong {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.hornet img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.hornet img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(73, 63, 63);
+}
+
+.silksong h4 {
+    color: white;
+}
